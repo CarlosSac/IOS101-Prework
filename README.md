@@ -2,9 +2,9 @@
 
 Submitted by: **Carlos Sac**
 
-**Name of your app** is an app that... [TODO] 
+**MyIntro** is an app that displays my name, university, and what I am aspiring to work on. 
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
@@ -17,11 +17,9 @@ The following **required** functionality is completed:
 
 <img src='demo-IOS101Prework.gif' title='Video Walkthrough' width='300px' alt='Video Walkthrough' />
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
 ## App Brainstorming (Step 4)
+
+
 
 ## Notes
 
